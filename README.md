@@ -59,7 +59,7 @@ The **Cinema API** serves as the backend for both the web and mobile application
 
 ![CNSD](https://github.com/user-attachments/assets/ce2c7c29-b05d-4da5-88ee-3221bd3329bc)
 
-# Employee Management Process and User Ticket Booking Process  
+### Employee Management Process and User Ticket Booking Process  
 
 | ![User Ticket Booking Process on Mobile](https://github.com/user-attachments/assets/864bc83f-edc0-4e0d-9c0d-f23686a8d50f) | ![Employee Management Process on Website](https://github.com/user-attachments/assets/f0d84eb5-54c3-417e-9217-dd0dc13a9f27) |
 |:--:|:--:|
