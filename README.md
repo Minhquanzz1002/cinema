@@ -4,7 +4,9 @@ This repository acts as the central hub for managing the Cinema project, which i
 
 ## Video
 
-### [Youtube](https://youtu.be/0QWEGVPIxUE)
+#### [Short Videos](https://www.youtube.com/watch?v=ea9zK-zwXWI&t=232s)
+#### [Detailed Videos](https://youtu.be/0QWEGVPIxUE)
+
 
 ## Repositories
 
